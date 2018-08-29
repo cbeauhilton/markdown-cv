@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Beau Hilton's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# C. Beau Hilton
+Medical Student, Data Scientist, Cleveland Clinic Lerner College of Medicine
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hiltonc@ccf.org">hiltonc@ccf.org</a>
+| <a href="https://cbeauhilton.github.io/">My GitHub page</a>
 </div>
 
 
